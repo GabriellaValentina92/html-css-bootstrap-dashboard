@@ -1,3 +1,19 @@
-.navbar-brand .mobile-logo{
+/* .navbar-brand .mobile-logo{
     width: 50px;
+} */
+
+.side_bar{
+    margin-top: 60px;
+    /* background-color: #051E34; */
+}
+
+
+.content-icon ul{
+    list-style: none;
+    font-size: 1.5rem;
+}
+
+.content-icon .side_menu a{
+    text-decoration: none;
+    /* color: white; */
 }
