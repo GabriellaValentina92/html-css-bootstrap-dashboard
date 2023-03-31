@@ -13,7 +13,7 @@
 
 .menu-list{
     list-style: none;
-    font-size: 1.5rem;
+    font-size: 1rem;
     padding-inline: 1rem;
 }
 
@@ -25,4 +25,12 @@
 .content_badge .badge_pills{
     font-size: 0.6rem;
     background-color: #051E34;
+}
+
+.tabs-main{
+    overflow: auto;
+}
+
+.card-stats{
+    margin-top: -300px;
 }
