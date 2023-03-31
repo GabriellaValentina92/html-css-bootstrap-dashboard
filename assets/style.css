@@ -1,3 +1,7 @@
+.navbar-brand .mobile-logo{
+    max-width: 40px;
+}
+
 .side_bar{
     padding-top: 60px;
 }
@@ -13,7 +17,12 @@
     padding-inline: 1rem;
 }
 
-.menu-list .side_menu a{
+.side_menu a{
     text-decoration: none;
     color: white;
+}
+
+.content_badge .badge_pills{
+    font-size: 0.6rem;
+    background-color: #051E34;
 }
